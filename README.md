@@ -11,7 +11,7 @@ This repo contains scripts in order to improve usability of ModSecurity.
   
   Run the initial script.
   
-  Ready to to.
+  Ready to go.
 
 # Usage
   #rule_check.sh -q {question_number}
