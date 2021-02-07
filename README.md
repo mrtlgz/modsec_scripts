@@ -6,6 +6,7 @@ This repo contains scripts in order to improve usability of ModSecurity.
 
 # After cloning the repo:
   Install requirements.
+  chmod +x initial_script.sh
   Run the initial script.
   Ready to to.
 
