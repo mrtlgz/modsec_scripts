@@ -11,4 +11,5 @@ This repo contains scripts in order to improve usability of ModSecurity.
 
 # Usage
   #rule_check.sh -q {question_number}
-  rule_check.sh -q 5
+  
+  #rule_check.sh -q 5
