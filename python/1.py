@@ -14,7 +14,7 @@ url = url + uri
 param = '?doc=/bin/ls'
 full_req: str= url + param
 req = requests.get(full_req)
-print(colored(full_req + "\nIsteğiniz gönderiliyor...", 'green'))
+print(colored(full_req + "\nSending the request...", 'green'))
 
 file = open("/var/log/usertest/user.log", "a+")
 if req:
